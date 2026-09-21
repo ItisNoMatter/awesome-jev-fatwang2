@@ -1,0 +1,7 @@
+{
+  "name": "jgrep",
+  "repository": "kyu1204/jgrep",
+  "description": "Semantic grep CLI that asks Jev one Noul per code chunk, git diff hunk or CSV row (16 per request) and prints grep-style file:line hits, with English-sentence lint rules for CI and an interactive init.",
+  "category": "search",
+  "evidence": ["src/jgrep.ts", "src/rows.ts", "src/cli.ts", "src/init.ts"]
+}
