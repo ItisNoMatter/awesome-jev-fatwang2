@@ -1,0 +1,7 @@
+{
+  "name": "Jevonian",
+  "repository": "xinyao27/jevonian",
+  "description": "Local OpenAI- and Anthropic-compatible proxy that asks one Jev call to pick both the model route and the thinking level for jevonian/auto, after deterministic code has filtered candidates by protocol, context window, effort floor, and spent quota windows, and after pinning a real model ID or requesting jevonian/<route> skips Jev entirely.",
+  "category": "developer_tools",
+  "evidence": ["src/brain.ts", "src/routing.ts", "docs/brain.md"]
+}
