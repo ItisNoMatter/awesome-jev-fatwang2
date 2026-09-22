@@ -6,7 +6,7 @@ Open-source projects built with [TypeSafe Jev](https://typesafe.ai), with submis
 
 ## Projects
 
-155 projects.
+156 projects.
 
 ### SDKs
 
@@ -113,6 +113,7 @@ Open-source projects built with [TypeSafe Jev](https://typesafe.ai), with submis
 - [hev reranker](https://github.com/hev/reranker) — Python library using Jev Noul judgments to score candidate documents for query relevance, then sort or filter the results\.
 - [Jev Search](https://github.com/superagents-lab/jev-search) — Web search using Jev to choose sources, time ranges and query candidates, then rank Search1API results by relevance\.
 - [jgrep](https://github.com/keltokhy/jgrep) — Filters text, structured records, functions, and diff hunks against plain-English descriptions using Jev Noul judgments\.
+- [jgrep](https://github.com/kyu1204/jgrep) — Semantic grep CLI that asks Jev one Noul per code chunk, git diff hunk or CSV row \(16 per request\) and prints grep-style file:line hits, with English-sentence lint rules for CI and an interactive init\.
 - [jselect](https://github.com/keltokhy/jselect) — Selects source-linked evidence within a token budget using Jev Noul relevance judgments and local diversity-aware selection\.
 - [jsort](https://github.com/keltokhy/jsort) — Ranks text along a plain-English criterion using pairwise Jev Noul comparisons and a locally fitted Bradley-Terry scale\.
 - [neo4jev](https://github.com/jexp/neo4jev) — Neo4j graph navigation demo that uses TypeSafe Jev to select relationships and check goals during beam search\.
