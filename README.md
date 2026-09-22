@@ -6,7 +6,7 @@ Open-source projects built with [TypeSafe Jev](https://typesafe.ai), with submis
 
 ## Projects
 
-156 projects.
+157 projects.
 
 ### SDKs
 
@@ -97,6 +97,7 @@ Open-source projects built with [TypeSafe Jev](https://typesafe.ai), with submis
 - [jev-superpowers](https://github.com/AkashPriyadarshii/jev-superpowers) — Systematic software development framework for AI coding agents upgraded with TypeSafe Jev System One typed decisions, zero-hallucination package vetting, and completion gates\.
 - [jev\.nvim](https://github.com/valentynkit/jev.nvim) — Neovim plugin that splits the buffer into functions with Treesitter, scores each against a plain-language question with Jev, and ranks answers by probability in the quickfix window\.
 - [jevkit](https://github.com/ariel-frischer/jevkit) — jevkit is a Rust CLI for TypeSafe Jev that validates Choice, Score, and Noul question sets with 13 offline lint rules before sending the request to the /api/alpha/decisions endpoint and prints the parsed answers as JSON\.
+- [Jevonian](https://github.com/xinyao27/jevonian) — Local OpenAI- and Anthropic-compatible proxy that asks one Jev call to pick both the model route and the thinking level for jevonian/auto, after deterministic code has filtered candidates by protocol, context window, effort floor, and spent quota windows, and after pinning a real model ID or requesting jevonian/&lt;route&gt; skips Jev entirely\.
 - [JevSeek](https://github.com/morcoan/JevSeek) — Desktop and CLI coding agent that uses Jev to select the next tool from user intent and recorded execution results\.
 - [Leanest](https://github.com/baronunread/leanest) — Local-first test selector that uses TypeSafe Jev semantic judgments to decide which tests are safe to skip for a given code change, dropping straight into CI via its bundled GitHub Action\.
 - [pi-jev-auto-mode](https://github.com/jomatsu/pi-jev-auto-mode) — Jev \(TypeSafe System One\) backed auto mode for the Pi coding agent: semantically auto-approves bash, write, and edit tool calls and fails closed when a decision cannot be made\.
